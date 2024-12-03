@@ -1,5 +1,5 @@
 name: "ALPR Watched Plates Manager"
-version: "1.0"
+version: "1.1"
 slug: "codeproject_ai_watchedplates"
 description: "Manage watched license plates for CodeProject AI ALPR integration."
 arch:
