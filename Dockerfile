@@ -2,7 +2,6 @@ FROM python:3.11-slim
 
 # Set working directory
 WORKDIR /app
-RUN chmod +x /run.sh
 # Install dependencies
 COPY requirements.txt /app/
 RUN pip install -r requirements.txt
