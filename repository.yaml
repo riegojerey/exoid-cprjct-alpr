@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: ALPR Watched Plates Manager
+url: 'https://github.com/riegojerey/exoid-cprjct-alpr.git'
+maintainer: TinderSamurai
